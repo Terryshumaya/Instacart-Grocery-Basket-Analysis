@@ -36,10 +36,14 @@ customers are ordering.
 + ### Subfolders 
 + 01 Project management - contains project brief
 + 02 - includes two subfolders (Not uploaded due to size limitations)
-   - 'Original Data': Original Datasets
+   - Original Data: Original Datasets
    - 'Prepared Data': Cleaned data ready for analysis
 + 03 Scripts - Jupyter Notebook Scripts for the analysis
 + 04 Analysis - Includes two subfolders
-  - 'Reports': Contains all Instacart report
-  - 'Visualizations': Contains all Instacart final analytical report visualizations
+  - Reports: Contains all Instacart report
+  - Visualizations: Contains all Instacart final analytical report visualizations
 + 05 Sent to client: Contains final Analysis report sent to Instacart.
+
+## Resources and Disclaimer
+Instacart is a real company that’s made their data available online. However, the contents of this project brief
+have been fabricated for the purpose of this Achievement.
