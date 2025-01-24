@@ -30,3 +30,11 @@ customers are ordering.
 + Seaborn - Python data visualization
 + Matplotlib - Python library for static, Interactive and animated visualizations
 + Scipy - Python library for complex Scientific and technical computing
+
+## Folders
++ Project main folder: 23-11-2024 Instacart Basket Analysis
++ ### Subfolders 
++ 01 Project management - contains project brief
++ 02 - includes two subfolders (Not ulpoaded due to size)
+  'Original Data': Original Datasets
+  'Prepared Data': Cleaned data ready for analysis
