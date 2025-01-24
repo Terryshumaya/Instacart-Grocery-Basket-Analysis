@@ -25,7 +25,7 @@ customers are ordering.
 + Departments
 
 ## Import/Export File Formats
- - Comma-Separated Values(####CSV)
+ - Comma-Separated Values( ####CSV )
  - Pickle (####pkl)
 
 ## Libraries used for this Analysis
