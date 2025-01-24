@@ -32,7 +32,7 @@ customers are ordering.
 + Scipy - Python library for complex Scientific and technical computing
 
 ## Folders
-+ Project main folder: 23-11-2024 Instacart Basket Analysis
++ Project main folder: Instacart Basket Analysis 12-2024
 + ### Subfolders 
 + 01 Project management - contains project brief
 + 02 - includes two subfolders (Not uploaded due to size limitations)
