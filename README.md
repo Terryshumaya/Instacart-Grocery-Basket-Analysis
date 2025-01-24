@@ -36,5 +36,5 @@ customers are ordering.
 + ### Subfolders 
 + 01 Project management - contains project brief
 + 02 - includes two subfolders (Not ulpoaded due to size)
-  'Original Data': Original Datasets
-  'Prepared Data': Cleaned data ready for analysis
++ - 'Original Data': Original Datasets
++ - 'Prepared Data': Cleaned data ready for analysis
