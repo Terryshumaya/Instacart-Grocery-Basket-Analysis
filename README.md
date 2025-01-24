@@ -40,7 +40,7 @@ customers are ordering.
    - 'Prepared Data': Cleaned data ready for analysis
 + 03 Scripts - Jupyter Notebook Scripts for the analysis
 + 04 Analysis - Includes two subfolders
-  - Reports: Contains all Instacart report
+  - Reports: Contains all Instacart reports
   - Visualizations: Contains all Instacart final analytical report visualizations
 + 05 Sent to client: Contains final Analysis report sent to Instacart.
 
