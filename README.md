@@ -24,6 +24,10 @@ customers are ordering.
 + Orders_Products_prior
 + Departments
 
+## Import/Export File Formats
+ - Comma-Separated Values(CSV)
+ - Pickle (pkl)
+
 ## Libraries used for this Analysis
 + Pandas for data analysis
 + Numpy (Numerical Python) for descriptive statistics and mathematical computations
