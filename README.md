@@ -24,3 +24,9 @@ customers are ordering.
 + Orders_Products_prior
 + Departments
 
+## Libraries used for this Analysis
++ Pandas for data analysis
++ Numpy (Numerical Python) for descriptive statistics and mathematical computations
++ Seaborn - Python data visualization
++ Matplotlib - Python library for static, Interactive and animated visualizations
++ Scipy - Python library for complex Scientific and technical computing
