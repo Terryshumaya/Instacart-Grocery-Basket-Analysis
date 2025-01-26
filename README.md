@@ -45,7 +45,7 @@ customers are ordering.
 + 03 Scripts - Jupyter Notebook Scripts for the analysis
 + 04 Analysis - Includes two subfolders
   - Reports: Contains all Instacart reports
-  - Visualizations: Contains all Instacart final analytical report visualizations
+  - Visualizations: Contains all Instacart final analysis report visualizations
 + 05 Sent to client: Contains final Analysis report sent to Instacart.
 
 ## Resources and Disclaimer
