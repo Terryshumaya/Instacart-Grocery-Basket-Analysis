@@ -49,5 +49,5 @@ customers are ordering.
 + 05 Sent to client: Contains final Analysis report sent to Instacart.
 
 ## Resources and Disclaimer
-Instacart is a real company that’s made their data available online. However, the contents of this project 
+Instacart is a real company that’s made their data available online. However, its contents 
 have been fabricated for the purpose of this project.
